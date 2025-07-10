@@ -1,3 +1,4 @@
-# Hello World – Git Practice Project
+# Hello World Git Project
 
 This is the Hello World example from the git project.
+(changed in the original)
